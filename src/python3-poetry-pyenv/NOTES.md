@@ -1,0 +1,1 @@
+This template generate an image with Pyenv and Poetry installed and configured to work together to make a seamsly experience. The images used as base are the Microsoft base images based in debian and ubuntu. The applications are installed under the vscode profile that comes with the images previously mentioned.
