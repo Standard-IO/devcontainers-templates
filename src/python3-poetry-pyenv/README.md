@@ -16,4 +16,4 @@ The base images to build the template are the offcial base images of devcontaine
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/Standard-IO/devcontainers/blob/main/src/python3-poetry-pyenv/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/Standard-IO/devcontainers-templates/blob/main/src/python3-poetry-pyenv/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
