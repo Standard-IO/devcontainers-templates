@@ -25,7 +25,7 @@
             "description": "Select the os to install",
             "proposals":[
                 "debian",
-                "bulleye",
+                "bullseye",
                 "buster",
                 "jammy",
                 "focal",
