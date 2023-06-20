@@ -1,6 +1,6 @@
 {
     "id": "python3-poetry-pyenv",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "name": "python with poetry",
     "description": "devcontainer with pyenv as main source to get python version and poetry to manage dependencies on the top of  DevContainer official images based on debian ",
     "documentationURL": "https://github.com/Standard-IO/devcontainers/tree/main/src/python3-poetry-pyenv",
